@@ -7,9 +7,11 @@ function Home() {
     <Wrapper>
       <h1>Characters types</h1>
       <div>
-        <Link to="donald">donald duck</Link>
-        <Link to="pooh">pooh</Link>
-        <Link to="sponge">sponge bob</Link>
+        <Link to="donald">도날드덕</Link>
+        <Link to="pooh">푸</Link>
+        <Link to="sponge">스폰지밥</Link>
+        <Link to="elsa">엘사</Link>
+        <Link to="woodie">우디</Link>
         <main>
           <Outlet />
         </main>

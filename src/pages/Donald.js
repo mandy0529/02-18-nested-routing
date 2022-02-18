@@ -3,7 +3,7 @@ import React from "react";
 function Donald() {
   return (
     <>
-      <h1>Donald duck</h1>
+      <h1>도날드덕</h1>
       <img style={{width:'300px'}} src="assets/donald.png" alt="donald" />
     </>
   );
